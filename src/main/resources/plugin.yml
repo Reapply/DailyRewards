@@ -1,0 +1,10 @@
+name: PromptTest
+version: '1.0-alpha'
+main: net.mossmc.promptTest.PromptTest
+api-version: '1.21'
+authors: [ Banker ]
+website: ravenpvp.net
+
+commands:
+  dailycrate:
+    description: Daily Crate Command
